@@ -3,27 +3,29 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=FF2020&center=true&vCenter=true&width=620&lines=Hey!+I'm+Netuke+%F0%9F%98%B8;Modder+%7C+Developer+%7C+Creator;Haxe+%7C+Java+%7C+Python;Always+learning%2C+always+tinkering." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=E5E5E5&center=true&vCenter=true&width=620&lines=Hey!+I'm+Netuke+%F0%9F%98%B8;Modder+%7C+Developer+%7C+Creator;Haxe+%7C+Java+%7C+Python;Always+learning%2C+always+tinkering." alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YOUTUBE-FF2020?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@Netuke)
-[![Website](https://img.shields.io/badge/TUKIFY-0d0d0d?style=flat-square&logo=vercel&logoColor=FF2020)](https://tukify.pages.dev/)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-1a1a1a?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@Netuke)
+[![Website](https://img.shields.io/badge/TUKIFY-2b2b2b?style=flat-square&logo=vercel&logoColor=white)](https://tukify.pages.dev/)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=netuke&style=flat-square&color=FF2020&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=netuke&style=flat-square&color=808080&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
 <img align="right" width="200px" src="./char.png" alt="character"/>
+
+## 👋 About Me
 
 **Modder · Developer · Creator · Brazil 🇧🇷**
 
@@ -33,13 +35,13 @@ Hey! I'm **Netuke** — a hobbyist dev from Brazil who makes **FNF mods** using 
 
 I also made my own multilingual site, [Tukify](https://tukify.pages.dev/). Still learning every day. 😆
 
-```
+```txt
 ◈  Handle   →  Netuke
 ◈  Origin   →  Brazil 🇧🇷
 ◈  Focus    →  Mods / APKs / Dev
 ◈  Stack    →  Haxe · Java · Python
 ◈  Status   →  Always tinkering 🔧
-```
+````
 
 <br clear="right"/>
 
@@ -49,14 +51,14 @@ I also made my own multilingual site, [Tukify](https://tukify.pages.dev/). Still
 
 <div align="center">
 
-![Haxe](https://img.shields.io/badge/Haxe-0d0d0d?style=for-the-badge&logo=haxe&logoColor=FF2020)
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=FF2020)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FF2020)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=FF2020)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=FF2020)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=FF2020)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=FF2020)
-![Android](https://img.shields.io/badge/Android-0d0d0d?style=for-the-badge&logo=android&logoColor=FF2020)
+![Haxe](https://img.shields.io/badge/Haxe-1a1a1a?style=for-the-badge\&logo=haxe\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge\&logo=css3\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge\&logo=github\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-1a1a1a?style=for-the-badge\&logo=android\&logoColor=white)
 
 </div>
 
@@ -66,11 +68,11 @@ I also made my own multilingual site, [Tukify](https://tukify.pages.dev/). Still
 
 <img align="right" width="220px" src="./project1.png" alt="project screenshot"/>
 
-- 🎵 **FNF Mods** — Creating and porting mods with Codename Engine & Psych Engine
-- 📦 **APKs** — Sharing and building Android packages
-- 🌐 **Web** — Built [Tukify](https://tukify.pages.dev/), my own multilingual site
-- ☕ **Java / Python** — Scripting and automating stuff when needed
-- 📺 **YouTube** — Sharing mods, APKs, and whatever I find cool → [@Netuke](https://www.youtube.com/@Netuke)
+* 🎵 **FNF Mods** — Creating and porting mods with Codename Engine & Psych Engine
+* 📦 **APKs** — Sharing and building Android packages
+* 🌐 **Web** — Built [Tukify](https://tukify.pages.dev/), my own multilingual site
+* ☕ **Java / Python** — Scripting and automating stuff when needed
+* 📺 **YouTube** — Sharing mods, APKs, and whatever I find cool → [@Netuke](https://www.youtube.com/@Netuke)
 
 <br clear="right"/>
 
@@ -83,6 +85,18 @@ I also made my own multilingual site, [Tukify](https://tukify.pages.dev/). Still
 <a href="https://gamebanana.com/mods/666980">
   <img src="./project_icon.png" width="320px" alt="featured project"/>
 </a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=netuke&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=C0C0C0&text_color=E5E5E5"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netuke&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=E5E5E5"/>
 
 </div>
 
