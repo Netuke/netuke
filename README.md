@@ -90,18 +90,6 @@ I also made my own multilingual site, [Tukify](https://tukify.pages.dev/). Still
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=netuke&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=C0C0C0&text_color=E5E5E5"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netuke&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=E5E5E5"/>
-
-</div>
-
----
-
 <div align="center">
 
 😸 *If you like what I do — check out my [YouTube](https://www.youtube.com/@Netuke) or visit [Tukify](https://tukify.pages.dev/)!*
